@@ -1,6 +1,6 @@
 In this repo I present my most used VI packages that I have created. I use them in all my projects.
 
-<u>**More packages coming soon !!!**</u>
+**<u>More packages coming soon !!!</u>**
 
 # Packages
 Here is a list of available and usefull LabVIEW libraries that can be installed with the VI Package Manager from JKI
