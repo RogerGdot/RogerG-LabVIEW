@@ -1,9 +1,10 @@
-# Packages
-Here is a list of available packages:
+In this repo I present my most used VI packages that I have created. I use them in all my projects.
 
-Package 1: Description of package 1
-Package 2: Description of package 2
-Package 3: Description of package 3
+# Packages
+Here is a list of available and usefull LabVIEW libraries that can be installed with the VI Package Manager from JKI
+
+Package : Description of package 1
+
 # Contributing
 Contributions are welcome! Please open an issue or a pull request to suggest changes.
 
@@ -11,4 +12,4 @@ Contributions are welcome! Please open an issue or a pull request to suggest cha
 This project is licensed under the MIT License.
 
 # Contact
-For questions or suggestions, please contact [your email address] or open an issue.
+For questions or suggestions, please contact rogergdot@gmail.com or open an issue.
